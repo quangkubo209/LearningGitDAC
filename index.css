@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Định dạng phần tử <h1> */
+h1 {
+    color: #333; /* Màu chữ */
+    font-size: 24px; /* Kích thước chữ */
+    text-align: center; /* Căn giữa văn bản */
+    margin-top: 20px; /* Khoảng cách phía trên */
+  }
+  
+  /* Định dạng phần tử <p> */
+  p {
+    color: #666; /* Màu chữ */
+    font-size: 16px; /* Kích thước chữ */
+    text-align: left; /* Căn trái văn bản */
+    margin: 20px; /* Khoảng cách xung quanh */
+  }
+  
+  /* Định dạng đường link <a> */
+  a {
+    color: #0078d4; /* Màu của liên kết */
+    text-decoration: none; /* Loại bỏ gạch chân dưới link */
+  }
+  
+  /* Định dạng link khi di chuột qua */
+  a:hover {
+    text-decoration: underline; /* Gạch chân dưới khi di chuột qua */
+  }
+  
